@@ -12,4 +12,4 @@ prob_unfair_coin = round(prob_unfair_coin, 4)  # Round to 4 decimal places
 print(f"Probability that the selected coin is the unfair coin: {prob_unfair_coin:.4f}")
 # The probability that the selected coin is the unfair coin is 0.9118.
 # The total probability of getting heads 10 times is calculated using the law of total probability.
-# The probability of selecting the unfair coin given heads 10 times is calculated using Bayes' theorem.
+# The probability of selecting the unfair coin given heads 10 times is calculated using Bayes' theorem.`
